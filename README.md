@@ -62,7 +62,7 @@ Open the web browser and type in http://localhost:3000/ in the search bar.
 
 #### Congratulations!
 
-You have completed the installation!
+You have completed the installation.
 
 ## Demo
 

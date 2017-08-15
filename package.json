@@ -1,7 +1,7 @@
 {
   "name": "employees_crud",
   "version": "1.0.0",
-  "description": "A simple app for managing a list of employees.",
+  "description": "A simple program for Creating, Reading, Updating, and Deleting list of employees.",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

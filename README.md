@@ -48,16 +48,25 @@ $ cd <Your File Path>/EmployeesCRUD
 Type in "npm install --production" and wait until the installation is complete.
 
 ```
-$ cd <Your File Path>/EmployeesCRUD
+$ npm install --production
 ```
 
-And repeat
+After the installation is completed, type in "node server". A message saying, “Started server at port 3000” should be displayed.
 
 ```
-until finished
+$ node server
+Started server at port 3000
 ```
 
-End with an example of getting some data out of the system or using it for a little demo
+Open the web browser and type in http://localhost:3000/ in the search bar.
+
+#### Congratulations!
+
+You have completed the installation!
+
+## Demo
+
+Working in progress...
 
 ## Running the tests
 
@@ -70,7 +79,7 @@ Working in progress...
 * [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
 
-## Authors
+## Author
 
 * **Oscar Wang** - *Initial work* - [OscarWang114](https://github.com/OscarWang114)
 

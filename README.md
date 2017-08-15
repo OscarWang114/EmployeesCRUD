@@ -85,4 +85,4 @@ Working in progress...
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/OscarWang114/EmployeesCRUD/blob/master/LICENSE) file for details

@@ -74,10 +74,10 @@ Working in progress...
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
+* [Node.js](https://maven.apache.org/) - Used to build the HTTP server
+* [React](https://facebook.github.io/react/) - Used to build user interface
+* [Webpack](https://webpack.js.org/) - Used to bundle multiple modules
+* [Bootstrap](http://getbootstrap.com/) - Used to enhance user interface
 
 ## Author
 

@@ -75,9 +75,11 @@ Working in progress...
 ## Built With
 
 * [Node.js](https://nodejs.org/) - Used to build the HTTP server
+* [Express](https://expressjs.com) - Web framework used
+* [mLab MongoDB Hosting](https://mlab.com) - Used as employee database
 * [React](https://facebook.github.io/react/) - Used to build user interface
-* [Webpack](https://webpack.js.org/) - Used to bundle multiple modules
 * [Bootstrap](http://getbootstrap.com/) - Used to enhance user interface
+* [Webpack](https://webpack.js.org/) - Used to bundle multiple modules
 
 ## Author
 
